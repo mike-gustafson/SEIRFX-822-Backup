@@ -1,0 +1,96 @@
+[
+    {
+        "accountName": "Checking Account",
+        "accountNumber": "47509169",
+        "amount": 1000,
+        "routingNumber": "441648403",
+        "pin": "4802",
+        "id": 0
+    },
+    {
+        "accountName": "Personal Loan Account",
+        "accountNumber": "96716718",
+        "amount": 25000,
+        "routingNumber": "356662503",
+        "pin": "6691",
+        "id": 1
+    },
+    {
+        "accountName": "Auto Loan Account",
+        "accountNumber": "80747726",
+        "amount": 25000,
+        "routingNumber": "541827771",
+        "pin": "4226",
+        "id": 3
+    },
+    {
+        "accountName": "Investment Account",
+        "accountNumber": "59973295",
+        "amount": 1000000,
+        "routingNumber": "984666528",
+        "pin": "8888",
+        "id": 3
+    },
+    {
+        "accountName": "Credit Card Account",
+        "accountNumber": "09330989",
+        "amount": 1000000,
+        "routingNumber": "634585836",
+        "pin": "1887",
+        "id": 4
+    },
+    {
+        "accountName": "Investment Account",
+        "accountNumber": "75694437",
+        "amount": 25000,
+        "routingNumber": "233818263",
+        "pin": "9240",
+        "id": 5
+    },
+    {
+        "accountName": "Investment Account",
+        "accountNumber": "49734114",
+        "amount": 25000,
+        "routingNumber": "729607137",
+        "pin": "3436",
+        "id": 6
+    },
+    {
+        "accountName": "baller account",
+        "accountNumber": "42940856",
+        "amount": 50000,
+        "routingNumber": "842777627",
+        "pin": "9203",
+        "id": 10
+    },
+    {
+        "accountName": "home",
+        "accountNumber": "97540656",
+        "amount": 300000,
+        "routingNumber": "331576494",
+        "pin": "1721",
+        "id": 11
+    },
+    {
+        "accountName": "baller account",
+        "accountNumber": "48465362",
+        "amount": 300000,
+        "routingNumber": "637588270",
+        "pin": "2519",
+        "id": 12
+    },
+    {
+        "accountNumber": "85530869",
+        "amount": null,
+        "routingNumber": "260903688",
+        "pin": "0660",
+        "id": 10
+    },
+    {
+        "accountNumber": "69077435",
+        "amount": null,
+        "routingNumber": "569899341",
+        "pin": "4279",
+        "id": 11
+    }
+]

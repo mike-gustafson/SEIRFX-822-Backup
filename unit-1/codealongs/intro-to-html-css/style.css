@@ -1,0 +1,38 @@
+img {
+  width: 200px;
+  height: 200px;
+}
+
+.title {
+  font-size: 100px;
+  color: blue;
+  margin: 100px;
+}
+
+#war {
+  color: red;
+  font-weight: bold;
+}
+
+body {
+  background-color: aliceblue;
+}
+
+table,
+th,
+td {
+  border: 2px solid blue;
+  font-weight: normal;
+}
+
+th {
+  padding: 5px;
+}
+
+thead th {
+  font-weight: bold;
+}
+
+tfoot td {
+  font-style: oblique;
+}

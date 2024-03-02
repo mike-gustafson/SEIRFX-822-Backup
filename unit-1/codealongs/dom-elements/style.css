@@ -1,0 +1,21 @@
+.table2 th, .table2 td {
+  border: 1px solid black;
+}
+
+body {
+  background: cadetblue;
+}
+
+main {
+  background: white;
+  margin: 20px 0;
+  padding: 10px;
+}
+
+.center {
+  margin: 0 auto;
+  width: 200px;
+  background: black;
+  padding: 20px;
+  color: white;
+}

@@ -1,0 +1,32 @@
+{
+  "name": "sqlzoo",
+  "version": "1.0.0",
+  "description": "Lab/Deliverable: SQL Zoo. Know enough to be dangerous in SQL",
+  "main": "index.js",
+  "scripts": {
+    "test1": "mocha test/01-select-basics.test.js",
+    "test2": "mocha test/02-select-countries.test.js",
+    "test3": "mocha test/03-select-nobels.test.js",
+    "test4": "mocha test/04-select-within-select.test.js",
+    "test5": "mocha test/05-aggregates.test.js",
+    "test6": "mocha test/06-countries-bonus.test.js",
+    "test7": "mocha test/07-joins-warmup.test.js",
+    "test8": "mocha test/08-joins-exercises.test.js",
+    "test9": "mocha test/09-joins-music.test.js",
+    "test10": "mocha test/010-using-null.test.js",
+    "test11": "mocha test/011-self-joins.test.js",
+    "testall": "mocha"
+  },
+  "keywords": [],
+  "author": "You",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "pg": "^8.11.3"
+  }
+}
